@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Bounce-a-thon</title>
+    </head>
+    <body bgcolo="#0000CD" align: center>
+<h1>The Bounce-a-thon</h1>
+<p>What is the Bounce-a-thon?</p>
+<p>The Bounce-a-thon is a series of videos where children attempt to succesfully jump on a yoga ball wihtout dying. NOTE- The children chose to do it, they were not physically forced to jump on the ball.</p>
+<h2>Participants:</h2>
+<p>Windstorm</p>
+<p>LafayJUMP</p>
+<p>Hamilton</p>
+<p>Firestorm</p>
+<p>Iceball</p>
+<p>Bannana</p>
+<p>Sparkle</p>
+<p>Pup</p>
+<h3>Info about the contestants</h3>
+<p>Windstorm:</p>
+<p>Favorite food: brownies Favorite color: yellow</p>
+<p>LafayJUMP:</p>
+<p>Favortie food: crepes Favorite color: pale pink</p>
+<p>Hamilton:</p>
+<p>Favorite food: crepes Favorite color: grey</p>
+<p>Firestorm:</p>
+<p>Favorite food: In-N-Out Favorite color: blue</p>
+<p>Iceball:</p>
+<p>Favorite food: cheese pizza Favorite color: hot pink</p>
+<p>Bannana:</p>
+<p>Favorite food: cheeseburger Favorite color: red</p>
+<p>Gumball:</p>
+<p>Favorite food: spaggetti Favorite color: light purple</p>
+<p>Pup:</p>
+<p>Favorite food: food Favorite color: color</p>
+<p>Thunderstorm</p>
+<p>Favorite food: Steak? Favorite color: color</p>
+    </body>
+</html>
+<h2>Episodes</h2>
+<p>no episodes yet! check in soon!</p>
